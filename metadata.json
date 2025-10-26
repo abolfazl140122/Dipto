@@ -1,0 +1,7 @@
+{
+  "name": "چت بات هوشمند",
+  "description": "یک چت بات زیبا و ساده برای پاسخ به سوالات شما با استفاده از Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
