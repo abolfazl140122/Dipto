@@ -6,7 +6,7 @@ import ChatHistory from './components/ChatHistory';
 import ChatInput from './components/ChatInput';
 import SearchToggle from './components/SearchToggle';
 import NewChatIcon from './components/icons/NewChatIcon';
-import ThinkingToggle from './components/ThinkingToggle';
+import ThinkingToggle from './components/icons/ThinkingToggle';
 import VoiceTranscriptOverlay from './components/VoiceTranscriptOverlay';
 import { decode, decodeAudioData, createBlob } from './utils/AudioUtils';
 import WelcomeScreen from './components/WelcomeScreen';
